@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/arkaik/ktf/issues"
   },
-  "homepage": "https://github.com/arkaik/ktf#readme"
+  "homepage": "https://github.com/arkaik/ktf#readme",
+  "tonicExampleFilename": "test/main.js"
 }

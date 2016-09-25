@@ -1,0 +1,22 @@
+{
+  "name": "ktf",
+  "version": "0.1.0",
+  "description": "Karaoke Text Format",
+  "main": "lib/parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkaik/ktf.git"
+  },
+  "keywords": [
+    "KTF"
+  ],
+  "author": "arkaik",
+  "license": "GPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/arkaik/ktf/issues"
+  },
+  "homepage": "https://github.com/arkaik/ktf#readme"
+}

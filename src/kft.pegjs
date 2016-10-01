@@ -1,5 +1,5 @@
 File "file"
-  = lm:(Metadata __)* lt:(Timestamp __)* End
+  = BOM lm:(Metadata __)* lt:(Timestamp __)* End __
   {
   	let r = {}
   	for (let m of lm) {
@@ -57,7 +57,10 @@ STRING "normal string"
 
 _ "whitespace"
   = [ \t]*
-  
+
 __ "new line"
   = [\r\n]*
   {return null}
+
+BOM "byte order mark"
+  = [\xEF]?

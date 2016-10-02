@@ -56,7 +56,7 @@ STRING "normal string"
   = $[^\r\n]*
 
 _ "whitespace"
-  = [ \t]*
+  = [ \t]
 
 __ "new line"
   = [\r\n]*

@@ -1,6 +1,6 @@
 {
   "name": "ktf",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Karaoke Text Format",
   "main": "lib/main.js",
   "scripts": {

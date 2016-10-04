@@ -1,4 +1,7 @@
 #Changelog
+##v0.3.0 - 4/10/2016
+  - Added
+    - 2 new parsers
 ##v0.2.3 - 2/10/2016
   - Fixed
     - Whitespaces for lyrics are fixed
